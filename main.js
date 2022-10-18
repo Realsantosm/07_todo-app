@@ -11,6 +11,7 @@ itemList.addEventListener("click", removeItem);
 // Filter event
 filter.addEventListener("keyup", filterItems);
 
+
 // Add item
 function addItem(e) {
   e.preventDefault();
