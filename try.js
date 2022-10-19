@@ -33,7 +33,7 @@ function removeItem(e) {
     }
 }
 
-
+// Revision is required for this filter function also
 
 // Filter it now 
 function filterItems(e) {
