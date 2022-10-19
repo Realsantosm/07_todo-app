@@ -18,7 +18,7 @@ function addItem(e) {
     itemList.appendChild(li);
 }
 
-
+// comments added and still some concepts are not yet clear.
 
 
 
